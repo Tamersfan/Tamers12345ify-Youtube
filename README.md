@@ -1,6 +1,6 @@
 # Youtube Tamers12345ify
 
-Enhance your browsing experience with Tamers12345ifier. Is your browser experience boring? Are you having trouble finding engaging click-baity videos? Fear no more. This extension adds famous youtuber MrBeast to every thumbnail.
+Enhance your browsing experience with Tamers12345ifier. Is your browser experience boring? Are you having trouble finding engaging click-baity videos? Fear no more. This extension adds famous youtuber Tamers12345 to every thumbnail.
 
 Instructions on how to port and modify the extension can be found [here](https://github.com/MagicJinn/MrBeastify-Youtube/issues/16).
 
