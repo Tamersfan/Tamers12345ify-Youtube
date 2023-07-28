@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "YouTube MrBeastify",
+    "name": "YouTube Tamers12345ify",
     "version": "1.3",
     "icons": {
         "16": "icons/icon-16.png",
@@ -15,7 +15,7 @@
     ],
     "content_scripts": [{
         "matches": ["https://www.youtube.com/*"],
-        "js": ["mrbeastify.js"],
+        "js": ["tamers12345ify.js"],
         "run_at": "document_idle"
     }],
     "web_accessible_resources": [
